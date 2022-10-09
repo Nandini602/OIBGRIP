@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.text-center{
+    color:BLACK;
+}
+
+
+
+
+.html,body{
+    height:100%;
+    width:100%;
+    background-color: #691D69;
+    margin: 12px;
+    box-sizing: border-box;
+
+}
+.button{
+    padding:20px;
+    margin: 0 3px ;
+    border:2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+    background-color: #9990BA;
+    
+}
+.button:hover{
+    color:RED;
+    background-color: #ffce30;
+    
+}
+
+.row{
+    margin: 8px 0;
+    
+}
+.row input{
+    font-size: 23px;
+    margin:0;
+    padding:10px 0px;
+    border-radius: 9px;
+    border: 2px solid black;
+    width:295px;
+    color:rgb(20, 15, 15);
+
+
+}
